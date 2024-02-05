@@ -1,0 +1,29 @@
+.wrapper{
+    position: relative;
+}
+
+.oval{
+    background-image: url('./assets/Subtract.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    left: 35px;
+}
+
+.clock{
+    background-image: url('./assets/Group\ 3.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 450px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
